@@ -107,7 +107,7 @@ ul li{
     
     
 }
-#grad{
+/* #grad{
     background: rgb(228,0,0);
     background: radial-gradient(circle, rgba(228,0,0,1) 0%,rgba(100,0,0,1) 20%, rgba(45,0,0,1) 70%),rgba(40,0,0,1)100%;
     margin-top: -650px;
@@ -116,4 +116,4 @@ ul li{
     margin-left: 50px;
     
    z-index:0;
-}
+} */
