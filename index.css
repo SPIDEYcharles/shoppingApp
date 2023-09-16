@@ -8,7 +8,7 @@ html, body {
     font-family: 'Rubik', sans-serif;
     background-color: #EEF0F4;
     */
-    
+    user-select: none;   
 }
 
 input {
@@ -84,7 +84,7 @@ ul{
     flex-wrap: wrap;
     max-width: 400px;
     gap: 10px;
-   
+    color:#fcfbfb;
 }
 ul li{
     padding:10px;
