@@ -59,7 +59,7 @@ button {
     margin-top: 10px;
      display: flex;
     flex-direction: column;
-    max-width:fit-content;
+    
     justify-content: center;
 }
 .cont{
@@ -82,7 +82,7 @@ ul{
     padding: 0;
     display: flex;
     flex-wrap: wrap;
-    max-width: 400px;
+    max-width: 330px;
     gap: 10px;
     color:#fcfbfb;
 }
@@ -107,13 +107,13 @@ ul li{
     
     
 }
-/* #grad{
+#grad{
     background: rgb(228,0,0);
     background: radial-gradient(circle, rgba(228,0,0,1) 0%,rgba(100,0,0,1) 20%, rgba(45,0,0,1) 70%),rgba(40,0,0,1)100%;
     margin-top: -650px;
     height:800px;
     width:800px;
     margin-left: 50px;
-    
+    offset-anchor: img;
    z-index:0;
-} */
+}
